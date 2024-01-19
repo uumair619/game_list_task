@@ -1,5 +1,5 @@
 # game_list_task
-This is a Project for a Interview Task.
+This is a Project Sample project.
 
 
 Project OverView 
